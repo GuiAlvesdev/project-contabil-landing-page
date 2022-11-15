@@ -1,26 +1,13 @@
-/*
 
-Tooplate 2130 Waso Strategy
-
-https://www.tooplate.com/view/2130-waso-strategy
-
-Free Bootstrap 5 HTML Template
-
-*/
-
-
-/*---------------------------------------
-  CUSTOM PROPERTIES ( VARIABLES )             
------------------------------------------*/
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #FF8787;
-  --secondary-color:              #dc3545;
+  --primary-color:                #B01E68;
+  --secondary-color:              #DC3535;
   --section-bg-color:             #f5f5f5;
   --dark-color:                   #000000;
   --p-color:                      #717275;
 
-  --body-font-family:             'DM Sans', sans-serif;
+  --body-font-family:             'Poppins', sans-serif;
 
   --h1-font-size:                 60px;
   --h2-font-size:                 42px;
@@ -43,9 +30,6 @@ body {
 }
 
 
-/*---------------------------------------
-  TYPOGRAPHY               
------------------------------------------*/
 
 h2,
 h3,
@@ -155,9 +139,8 @@ strong {
 }
 
 
-/*---------------------------------------
-  CUSTOM ICON               
------------------------------------------*/
+
+
 .custom-icon {
   display: inline-block;
   height: 45px;
@@ -242,9 +225,10 @@ strong {
 }
 
 
-/*---------------------------------------
-  NAVIGATION              
------------------------------------------*/
+
+
+
+
 .navbar {
   z-index: 9;
   right: 0;
@@ -761,7 +745,7 @@ strong {
 -----------------------------------------*/
 @media screen and (min-width: 1600px) {
   .projects-thumb-large {
-    min-height: 416px;
+    min-height: 414px;
   }
 }
 
