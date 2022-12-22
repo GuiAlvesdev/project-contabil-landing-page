@@ -2,16 +2,17 @@
 
 <h4 align="center" >a simple contabil landing page</h4>
 
-<h5 align="center">um mini projeto, um website pessoal desenvolvido ainda estou atualizando para uma consultoria de contabil</h5>
+<h5 align="center">um mini projeto, um website pessoal desenvolvido ainda estou atualizando para uma consultoria de de rh</h5>
 
-<h3 align="center" >tecnologias utilizadas</h3>
-<h4 align="center">HTML, CSS, JS, Bootstrap</h4>
-<div align="center">
-<img src="https://github.com/GuiAlvesdev/project-contabil-landing-page/blob/main/iconsreadme/html-5.png"/>
-<img src="https://github.com/GuiAlvesdev/project-contabil-landing-page/blob/main/iconsreadme/css-3.png"/>
-<img src="https://github.com/GuiAlvesdev/project-contabil-landing-page/blob/main/iconsreadme/js.png"/>
-<img src="https://github.com/GuiAlvesdev/project-contabil-landing-page/blob/main/iconsreadme/bootstrap.png/>
-</div>
+
+
+<h3 align="center">Tecnologias utilizadas </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,vscode,js,css" />
+  </a>
+  <h4 align="center">HTML, CSS, JS, Bootstrap</h4>
+</p>
 
 
 <h3 align="center">Previa</h3>
